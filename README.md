@@ -1,2 +1,2 @@
 # is_fashion_predictable
-Code repository linked to the Medium article "Is Fashion Predictable?"
+Code repository to reproduce results of the Medium article ["Is Fashion Predictable?"]()
